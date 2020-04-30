@@ -15,4 +15,5 @@ assets/favicon.ai
 dbconfig.ini
 db-data/*
 *.qgz
+lads.txt
 
