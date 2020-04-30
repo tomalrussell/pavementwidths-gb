@@ -10,3 +10,7 @@ notebooks/boroughs/
 credentials.txt
 notebooks/.ipynb_checkpoints
 assets/favicon.ai
+
+.ipynb_checkpoints
+dbconfig.ini
+db-data/*
