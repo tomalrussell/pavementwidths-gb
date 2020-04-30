@@ -14,3 +14,5 @@ assets/favicon.ai
 .ipynb_checkpoints
 dbconfig.ini
 db-data/*
+*.qgz
+
