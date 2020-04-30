@@ -1,4 +1,15 @@
-# Sidewalk Widths NYC
+# Pavements in Ordnance Survey MasterMap
+
+## New York Sidewalk Widths
+
+Inspiration from [Meli Harvey](https://github.com/meliharvey)'s NYC sidewalk widths project.
+- map: http://sidewalkwidths.nyc
+- open code: https://github.com/meliharvey/sidewalkwidths-nyc
+- open dataset: https://data.cityofnewyork.us/City-Government/Sidewalk/vfx9-tbb6
+- data capture rules: https://github.com/CityOfNewYork/nyc-planimetrics/blob/master/Capture_Rules.md#sidewalk
+
+
+# Sidewalk Widths NYC README notes
 
 Sidewalk Widths NYC uses [New York City's Sidewalk dataset](https://data.cityofnewyork.us/City-Government/Sidewalk/vfx9-tbb6) to produce a map of sidewalk widths for the 5 boroughs.
 
