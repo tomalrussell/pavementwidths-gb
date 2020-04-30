@@ -24,7 +24,6 @@ import requests
 import shapely.wkt
 
 from centerline.geometry import Centerline
-from pandarallel import pandarallel
 from shapely.geometry import LineString
 from shapely.geometry import Point, MultiPoint, MultiLineString
 from shapely.ops import linemerge, nearest_points
