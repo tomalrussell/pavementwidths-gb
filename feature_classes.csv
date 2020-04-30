@@ -1,0 +1,174 @@
+feature_code,descriptive_group,feature_type,descriptive_term
+10021,Building,Area,
+10076,Historic Interest,Area,
+10075,Historic Interest,Line,
+10080,Historic Interest,Point,
+10073,Historic Interest,Symbol,
+10074,Historic Interest,Text,
+10072,Historic Interest,Point, Site Of Heritage
+10089,Inland Water,Area,
+10087,Inland Water,Line,
+10088,Inland Water,Point,
+10084,Inland Water,Symbo,
+10090,Inland Water,Text,
+10086,Inland Water,Text, Compound
+10092,Inland Water,Line, Culvert
+10085,Inland Water,Point, Culvert
+10091,Inland Water,Symbol, Culvert
+10082,Inland Water,Symbol, Direction Of Flow
+10083,Inland Water,Line, Tunnel Edge
+10093,Landform,Area,
+10095,Landform,Line,
+10094,Landform,Point,
+10106,Landform,Symbol,
+10102,Landform,Text,
+10103,Landform,Line, Bottom Of Cliff
+10097,Landform,Line, Bottom Of Slope
+10099,Landform,Area, Cliff
+10114,Network Or Polygon Closing Geometry,Line, Inferred Property Closing Link
+10113,Network Or Polygon Closing Geometry,Line, Polygon Closing Link
+10123,Path,Area,
+10124,Path,Line,
+10120,Path,Point,
+10121,Path,Symbol,
+10122,Path,Text,
+10119,Path,Area, Step
+10125,Path,Line, Tunnel Edge
+10126,Political Or Administrative,Area,
+10137,Political Or Administrative,Line,
+10132,Political Or Administrative,Point,
+10134,Political Or Administrative,Symbol,
+10133,Political Or Administrative,Text,
+10130,Political Or Administrative,Symbol, Boundary Half Mereing
+10129,Political Or Administrative,Point, Boundary Post Or Stone
+10127,Political Or Administrative,Line, County
+10131,Political Or Administrative,Line, District
+10128,Political Or Administrative,Line, Electoral
+10136,Political Or Administrative,Line, Parish
+10135,Political Or Administrative,Line, Parliamentary
+10167,Rail,Area,
+10155,Rail,Line,
+10159,Rail,Point,
+10161,Rail,Symbol,
+10166,Rail,Text,
+10160,Rail,Line, Buffer
+10156,Rail,Text, Compound
+10164,Rail,Line, Narrow Gauge
+10162,Rail,Line, Standard Gauge
+10163,Rail,Line, Standard Gauge Track
+10158,Rail,Point, Structure
+10165,Rail,Symbol, Switch
+10157,Rail,Line, Tunnel Edge
+10172,Road Or Track,Area,
+10175,Road Or Track,Line,
+10176,Road Or Track,Point,
+10170,Road Or Track,Symbol,
+10171,Road Or Track,Text,
+10168,Road Or Track,Line, Public
+10169,Road Or Track,Text, Road Name Or Classification
+10177,Road Or Track,Symbol, Road Related Flow
+10173,Road Or Track,Line, Tunnel Edge
+10183,Roadside,Area,
+10180,Roadside,Line,
+10182,Roadside,Point,
+10181,Roadside,Symbol,
+10178,Roadside,Text,
+10179,Roadside,Point, Structure
+10185,Structure,Area,
+10195,Structure,Line,
+10186,Structure,Point,
+10194,Structure,Symbol,
+10184,Structure,Text,
+10190,Structure,Area, Archway
+10188,Structure,Line, Network Closing Link
+10193,Structure,Area, Pylon
+10189,Structure,Line, Pylon
+10192,Structure,Point,
+10191,Structure,Point, Structure
+10187,Structure,Area, Upper Level Of Communication
+10199,Terrain And Height,Area,
+10201,Terrain And Height,Line,
+10200,Terrain And Height,Point,
+10196,Terrain And Height,Symbol,
+10198,Terrain And Height,Text,
+10202,Terrain And Height,Point, Air Height
+10197,Terrain And Height,Point, Spot Height
+10210,Tidal Water,Area,
+10208,Tidal Water,Line,
+10209,Tidal Water,Point,
+10206,Tidal Water,Symbol,
+10204,Tidal Water,Text,
+10207,Tidal Water,Text, Compound
+10203,Tidal Water,Area, Foreshore
+10205,Tidal Water,Text, Foreshore
+10211,Tidal Water,Line, Mean High Water (Springs)
+10212,Tidal Water,Line, Mean Low Water (Springs)
+10217,Unclassified,Area,
+10216,Unclassified,Line,
+10215,Unclassified,Point,
+10214,Unclassified,Symbol,
+10213,Unclassified,Text,
+10077,Historic Interest,Text,Compound
+10017,Building,Line,
+10022,Building,Point,
+10016,Building,Symbol,
+10020,Building,Text,
+10018,Building,Line, Division
+10019,Building,Line, Outline
+10025,Buildings Or Structure,Area,
+10023,Buildings Or Structure,Line,
+10024,Buildings Or Structure,Point,
+10027,Buildings Or Structure,Symbol,
+10026,Buildings Or Structure,Text,
+10028,Buildings Or Structure,Text, Compound
+10031,Built Environment,Area,
+10032,Built Environment,Line,
+10029,Built Environment,Point,
+10030,Built Environment,Symbol,
+10034,Built Environment,Text,
+10033,Built Environment,Text, Compound
+10044,General Feature,Area,
+10046,General Feature,Line,
+10045,General Feature,Point,
+10042,General Feature,Symbol,
+10043,General Feature,Text,
+10051,General Feature,Point, Positioned Boulder
+10050,General Feature,Point, Positioned Coniferous Tree
+10048,General Feature,Point, Positioned Nonconiferous Tree
+10041,General Feature,Line, Tunnel Edge
+10056,General Surface,Area,
+10052,General Surface,Line,
+10057,General Surface,Point,
+10055,General Surface,Symbol,
+10059,General Surface,Text,
+10053,General Surface,Area, Multi Surface
+10054,General Surface,Area, Step
+10058,General Surface,Line, Step
+10062,Glasshouse,Area,
+10064,Glasshouse,Line,
+10063,Glasshouse,Point,
+10061,Glasshouse,Symbol,
+10060,Glasshouse,Text,
+10065,Height Control,Area,
+10071,Height Control,Line,
+10068,Height Control,Point,
+10070,Height Control,Symbol,
+10069,Height Control,Text,
+10067,Height Control,Point, Bench Mark
+10066,Height Control,Symbol, Bench Mark
+10105,Landform,Text, Compound
+10100,Landform,Point, Disused Feature
+10101,Landform,Line, Ridge Or Rock Line
+10096,Landform,Area, Slope
+10104,Landform,Line, Top Of Cliff
+10098,Landform,Line, Top Of Slope
+10111,Natural Environment,Area,
+10110,Natural Environment,Line,
+10109,Natural Environment,Point,
+10108,Natural Environment,Symbol,
+10107,Natural Environment,Text,
+10116,Network Or Polygon Closing Geometry,Area,
+10115,Network Or Polygon Closing Geometry,Line,
+10118,Network Or Polygon Closing Geometry,Point,
+10117,Network Or Polygon Closing Geometry,Symbol,
+10112,Network Or Polygon Closing Geometry,Text,
